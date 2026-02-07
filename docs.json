@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "palm",
   "name": "Project Tennessee",
   "colors": {
     "primary": "#1c6046",
@@ -71,5 +71,11 @@
     "404": {
       "title": "Whoops! This page was not found"
     }
+  },
+  "search": {
+    "prompt": "Search or ask us..."
+  },
+  "banner": {
+    "content": "Hey! This documentation site for Project Tennessee is **coming soon**!"
   }
 }
