@@ -59,12 +59,17 @@
     "default": "dark"
   },
   "metadata": {
-    "timestamp": true
+    "timestamp": false
   },
   "seo": {
     "indexing": "navigable"
   },
   "background": {
     "decoration": "grid"
+  },
+  "errors": {
+    "404": {
+      "title": "Whoops! This page was not found"
+    }
   }
 }
